@@ -1,5 +1,0 @@
-classes = 5
-train = /content/object_detection/darknet/bumblebee/train.txt
-valid = /content/object_detection/darknet/bumblebee/test.txt
-names = bumblebee/bumblebee.names
-backup = /content/object_detection/darknet/bumblebee/saved_weights
